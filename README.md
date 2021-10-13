@@ -8,4 +8,4 @@ Modelo de retorno de listagem com HTML5, PHP e Mysqli.
 
 ![image](https://user-images.githubusercontent.com/66569225/137217783-9aac1ab9-842b-443c-b96d-9b672c4f92c6.png)
 
-Duvidas instagram.com/randerson_abdon.dev/
+Duvidas: instagram.com/randerson_abdon.dev/
